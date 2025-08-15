@@ -13,7 +13,7 @@ This project analyzes bicycle usage patterns in London using the public dataset 
 - **Looker Studio** – Data visualization & dashboard creation
 
 ## 📈 Dashboard
-Interactive dashboard link: [London Bicycle Dashboard](#) *https://lookerstudio.google.com/reporting/114a43f3-b1fa-438a-b8f9-003dd9f0e3f6*  
+Interactive dashboard link: [London Bicycle Dashboard](#) *(https://lookerstudio.google.com/reporting/114a43f3-b1fa-438a-b8f9-003dd9f0e3f6)*  
 
 ## 📌 Key Insights
 1. **Highest usage** recorded in July (summer season).
