@@ -26,6 +26,3 @@ Interactive dashboard link: *https://lookerstudio.google.com/reporting/114a43f3-
 - Optimize bicycle availability on weekdays.
 - Conduct promotional activities around York Way to boost user numbers.
 - Improve the bicycle model recording system to reduce "Unknown" category.
-
-## 📜 License
-This project is open-source under the MIT License.
